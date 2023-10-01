@@ -1,0 +1,13 @@
+{
+	"background_color": "aliceblue",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "lightblue"
+}
