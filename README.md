@@ -1,4 +1,4 @@
-<img src="icon.png" width="256" align="right">
+<img src="soothy.png" width="256" align="right">
 
 # Soothy
 by ltGuillaume: [Codeberg](https://codeberg.org/ltGuillaume) | [GitHub](https://github.com/ltGuillaume) | [Buy me a beer](https://buymeacoff.ee/ltGuillaume) 🍺
